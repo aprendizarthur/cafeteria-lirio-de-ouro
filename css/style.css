@@ -1,0 +1,114 @@
+/*ESTILOS GLOBAIS*/
+body{
+    background-color: #FEFAE0 !important;
+}
+hr{
+    background-color: #283618;
+}
+/*ESTILOS MAIN*/
+.encomenda-cta{
+    background: #283618;
+    max-height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.encomenda-cta a{
+    width: 48%;
+}
+.cardapio-cta{
+    background: #DDA15E;
+    background-image: url(../imagens/interior-2.jpg);
+    background-position: center;
+    background-size: cover;
+    max-height: 500px;
+}
+article h1{
+    font-size: 2rem;
+}
+
+.post-blog-light{
+  max-height: 500px;
+  }
+  .post-blog-light a{
+      color: #1C1C1E;
+      text-decoration: none;
+  }
+  .post-blog-light a:hover{
+      color: #AEAEB2;
+      text-decoration: underline;
+  }
+  .post-blog-light header span{
+      background-color: #DDA15E;
+      border-radius: 6px;
+      padding: 2px 0px 2px 0px;
+      color: white;
+  }
+  .post-blog-light footer{
+      font-size: 0.9rem;
+  }
+  .post-blog-light a:hover{
+      color: #1C1C1E;
+  }
+  .post-blog-light h1{
+      color: #1C1C1E;
+  }
+  .post-blog-light p{
+      color: #444446;
+  }
+
+  #carouselExampleControls img{
+    height: 450px;
+  }
+/*BOTÕES*/
+.btn-primary{
+    background-color: #BC6C25 !important;
+    border: 1px solid #BC6C25 !important;
+    color: #FFFFFF !important;
+    border-radius: 12px !important;
+}
+
+.btn-primary:hover{
+    background-color: #FFFFFF !important;
+    border: 1px solid #BC6C25!important;
+    color: #BC6C25 !important;
+    border-radius: 12px !important;
+}
+/*FONTES*/
+  .poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .playfair-display-regular {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .playfair-display-bold {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+/*TIPOGRAFIA*/
+h1{font-size: 2.5rem;}
+h2{font-size: 2.2rem;}
+p{ font-size: 1.1rem;}
+small{font-size: 0.8rem;}
