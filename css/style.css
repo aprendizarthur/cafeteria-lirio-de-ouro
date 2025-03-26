@@ -1,11 +1,34 @@
 /*ESTILOS GLOBAIS*/
+html {
+  scroll-behavior: smooth;
+  scrollbar-width: auto;
+  scrollbar-color:  #606C38 #283618;
+}
 body{
     background-color: #FEFAE0 !important;
 }
 hr{
     background-color: #283618;
 }
-/*ESTILOS MAIN*/
+header{
+  background: #FEFAE0 !important;
+}
+details{
+  color: #FFFFFF;
+}
+
+header svg{
+  color: #BC6C25;
+  margin-right: 5px;
+}
+
+header .nav-link{
+  color: #283618;
+}
+/*ESTILOS*/
+details p{
+  font-size: 1rem;
+}
 .encomenda-cta{
     background: #283618;
     max-height: 500px;
@@ -13,12 +36,9 @@ hr{
     flex-direction: column;
     justify-content: center;
 }
-.encomenda-cta a{
-    width: 48%;
-}
 .cardapio-cta{
     background: #DDA15E;
-    background-image: url(../imagens/interior-2.jpg);
+    background-image: url(../imagens/interior/interior-2-min.webp);
     background-position: center;
     background-size: cover;
     max-height: 500px;
@@ -60,12 +80,21 @@ article h1{
   #carouselExampleControls img{
     height: 450px;
   }
+  .container-footer{
+    background-color: #283618;
+    color: #FFFFFF;
+  }
+
+  .container-footer svg{
+    color: #BC6C25;
+    margin-right: 5px;
+  }
 /*BOTÕES*/
-.btn-primary{
-    background-color: #BC6C25 !important;
-    border: 1px solid #BC6C25 !important;
-    color: #FFFFFF !important;
-    border-radius: 12px !important;
+.btn-primary {
+  background-color: #065131 !important;
+  border: 1px solid #065131 !important;
+  color: #FFFFFF !important;
+  border-radius: 12px !important;
 }
 
 .btn-primary:hover{
@@ -89,7 +118,7 @@ article h1{
   
   .poppins-bold {
     font-family: "Poppins", sans-serif;
-    font-weight: 600;
+    font-weight: 700;
     font-style: normal;
   }
   
