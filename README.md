@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="images/assets/principal.jpg" style="border-radius: 20px; max-width: 80%; height: auto;">
+  <img src="imagens/assets/principal.jpg" style="border-radius: 20px; max-width: 80%; height: auto;">
 </div>
 
 <br>
@@ -41,11 +41,37 @@
 </ul>
 
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
+  <h2>Evolução Semanal Tráfego Orgânico (GSC):</h2>
+  <table style="border: 1px solid #000">
+      <thead>
+        <tr>
+          <th>Semana</th>
+          <th>Posts Blog</th>
+          <th>Cliques</th>
+          <th>Impressões</th>
+          <th>CTR Média</th>
+          <th>Posição Média</th> 
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>0</td>
+          <td>3</td>
+          <td>0</td>
+          <td>15</td>
+          <td>0%</td>
+          <td>24,3</td>
+        </tr>
+      </tbody>
+  </table>
+</div>
+
+<div align="left" style="margin-top: 20px; margin-bottom: 20px;">
   <h2>Melhorias:</h2>
 </div>
 
 <ul>
-  <li>Melhorar UI melhorando UX para usuários que acessam pelo blog - site foi feito sem protótipo em 2 dias</li>
+  <li>Aprimorar UI visando melhor UX para usuários que acessam pelo blog - site foi feito sem protótipo em 2 dias</li>
 </ul>
 
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
@@ -54,6 +80,7 @@
 
 <ul>
   <li>HTML mais semântico</li>
+  <li>Validar HTML utilizando https://validator.w3.org/</li>
   <li>rel="canonic" para as url's não variarem e dificultar indexação</li>
   <li>Usar IA para criação de conteúdo de blogs</li>
   <li>Colocar empresa no Google Meu Negócio e vincular Google Analytics no site</li>
@@ -64,11 +91,11 @@
 </div>
 
 <div align="center">
-  <img src="images/assets/desempenho.png" style="border-radius: 20px; height: auto;">
+  <img src="imagens/assets/desempenho.jpg" style="border-radius: 20px; height: auto;">
 </div>
 
 <div align="center">
-  <img src="images/assets/desempenho-2.png" style="border-radius: 20px; height: auto;">
+  <img src="imagens/assets/desempenho-2.jpg" style="border-radius: 20px; height: auto;">
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
@@ -76,7 +103,7 @@
 </div>
 
 <div align="center">
-  <img src="images/assets/cardapio.png" style="border-radius: 20px; max-width: 80%; height: auto;">
+  <img src="imagens/assets/cardapio.jpg" style="border-radius: 20px; max-width: 80%; height: auto;">
 </div>
 
 
