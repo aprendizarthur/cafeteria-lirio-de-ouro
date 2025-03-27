@@ -43,9 +43,10 @@
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
   <h2>Evolução tráfego orgânico (GSC):</h2>
   <table style="border: 1px solid #00000">
-    <tr>
       <thead>
         <tr>
+          <th>Semana<th>
+          <th>Posts Blog</th>
           <th>Cliques</th>
           <th>Impressões</th>
           <th>CTR</th>
@@ -54,6 +55,8 @@
       </thead>
       <tbody>
         <tr>
+          <td>0</td>
+          <td>3</td>
           <td>0</td>
           <td>15</td>
           <td>0%</td>
