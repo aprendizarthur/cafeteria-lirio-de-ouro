@@ -45,7 +45,7 @@
 </div>
 
 <ul>
-  <li>Melhorar UI melhorando UX para usuários que acessam pelo blog - site foi feito sem protótipo em 2 dias</li>
+  <li>Aprimorar UI visando melhor UX para usuários que acessam pelo blog - site foi feito sem protótipo em 2 dias</li>
 </ul>
 
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
@@ -64,11 +64,11 @@
 </div>
 
 <div align="center">
-  <img src="imagens/assets/desempenho.png" style="border-radius: 20px; height: auto;">
+  <img src="imagens/assets/desempenho.jpg" style="border-radius: 20px; height: auto;">
 </div>
 
 <div align="center">
-  <img src="imagens/assets/desempenho-2.png" style="border-radius: 20px; height: auto;">
+  <img src="imagens/assets/desempenho-2.jpg" style="border-radius: 20px; height: auto;">
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
@@ -76,7 +76,7 @@
 </div>
 
 <div align="center">
-  <img src="imagens/assets/cardapio.png" style="border-radius: 20px; max-width: 80%; height: auto;">
+  <img src="imagens/assets/cardapio.jpg" style="border-radius: 20px; max-width: 80%; height: auto;">
 </div>
 
 
