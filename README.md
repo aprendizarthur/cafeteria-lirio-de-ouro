@@ -41,7 +41,7 @@
 </ul>
 
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
-  <h2>Evolução tráfego orgânico (GSC):</h2>
+  <h2>Evolução Semanal Tráfego Orgânico (GSC):</h2>
   <table style="border: 1px solid #00000">
       <thead>
         <tr>
@@ -49,7 +49,7 @@
           <th>Posts Blog</th>
           <th>Cliques</th>
           <th>Impressões</th>
-          <th>CTR</th>
+          <th>CTR Média</th>
           <th>Posição Média</th> 
         </tr>
       </thead>
@@ -63,8 +63,6 @@
           <td>24,3</td>
         </tr>
       </tbody>
-      
-    </tr>
   </table>
 </div>
 
