@@ -89,6 +89,10 @@ article h1{
     color: #BC6C25;
     margin-right: 5px;
   }
+
+  #indice a{
+    color: #FFFFFF;
+  }
 /*BOTÕES*/
 .btn-primary {
   background-color: #065131 !important;
@@ -139,5 +143,6 @@ article h1{
 /*TIPOGRAFIA*/
 h1{font-size: 2.5rem;}
 h2{font-size: 2.2rem;}
+h3{font-size: 1.8rem;}
 p{ font-size: 1.1rem;}
 small{font-size: 0.8rem;}
