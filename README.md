@@ -42,10 +42,10 @@
 
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
   <h2>Evolução Semanal Tráfego Orgânico (GSC):</h2>
-  <table style="border: 1px solid #00000">
+  <table style="border: 1px solid #000">
       <thead>
         <tr>
-          <th>Semana<th>
+          <th>Semana</th>
           <th>Posts Blog</th>
           <th>Cliques</th>
           <th>Impressões</th>
