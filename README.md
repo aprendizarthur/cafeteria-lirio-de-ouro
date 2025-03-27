@@ -80,6 +80,7 @@
 
 <ul>
   <li>HTML mais semântico</li>
+  <li>Validar HTML utilizando https://validator.w3.org/</li>
   <li>rel="canonic" para as url's não variarem e dificultar indexação</li>
   <li>Usar IA para criação de conteúdo de blogs</li>
   <li>Colocar empresa no Google Meu Negócio e vincular Google Analytics no site</li>
