@@ -13,12 +13,9 @@
 </div>
 
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
-  <strong>Status</strong>: Constante Atualização <br>
+  <strong>Status</strong>: Atualizado semanalmente <br>
   <strong>Tempo em desenvolvimento</strong>: 2 dias <br> 
-</div>
-
-<div align="left" style="margin-top: 40px; margin-bottom: 40px;">
-    <h2> - Evolução Semanal Tráfego Orgânico no final do README</h2></a>
+  <strong>Evolução semanal de tráfego orgânico no final do README</strong>
 </div>
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
   <h2>O que foi utilizado no projeto:</h2>
