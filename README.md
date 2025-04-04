@@ -14,7 +14,7 @@
 
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
   <strong>Status</strong>: Atualizado semanalmente <br>
-  <strong>Tempo em desenvolvimento</strong>: 2 dias <br> 
+  <strong>Tempo em desenvolvimento</strong>: 2 dias <br><br>
   <strong>Evolução semanal de tráfego orgânico no final do README</strong>
 </div>
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
@@ -39,7 +39,7 @@
 <ul>
   <li>Página institucional para uma cafeteria fictícia criada para exercitar SEO local</li>
   <li>Recebe atualizações semanais com novos conteúdos para o blog visando tráfego orgânico</li>
-  <li>Os assuntos das postagens são escolhidos estrategicamente para cobrir tópicos de interesse geral e tendências.</li>
+  <li>Os assuntos das postagens são escolhidos estrategicamente para cobrir tópicos de interesse geral e tendências</li>
 </ul>
 
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
@@ -47,7 +47,7 @@
 </div>
 
 <ul>
-  <li>Aprimorar UI visando melhor UX para usuários que acessam pelo blog - site foi feito sem protótipo em 2 dias</li>
+  <li>Aprimorar UI visando melhor UX para usuários que acessam pelo blog - o site foi feito sem protótipo em 2 dias</li>
 </ul>
 
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
@@ -83,7 +83,7 @@
 </div>
 
 <div align="left" id="evolucao" style="margin-top: 20px; margin-bottom: 20px;">
-  <h2>Evolução Semanal Tráfego Orgânico (GSC):</h2>
+  <h2>Evolução Semanal Tráfego Orgânico (Dados GSC):</h2>
   <table style="border: 1px solid #000">
       <thead>
         <tr>
