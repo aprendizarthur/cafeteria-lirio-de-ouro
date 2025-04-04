@@ -17,7 +17,7 @@
   <strong>Tempo em desenvolvimento</strong>: 2 dias <br> 
 </div>
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<div align="center" style="margin-top: 40px; margin-bottom: 40px;">
     <h2><strong>Evolução Semanal Tráfego Orgânico no final do README</strong></h2></a>
 </div>
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
