@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://www.construtorabuilder.com/</loc>
     <lastmod>2025-03-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- Cafeteria e negócios -->
   <url>
     <loc>https://construtorabuilder.com/blog/projeto-cafeteria-pequena.html</loc>
     <lastmod>2025-03-27</lastmod>
@@ -24,64 +27,38 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://construtorabuilder.com/blog/receita-bolo-banana.html</loc>
-    <lastmod>2025-03-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://construtorabuilder.com/blog/receita-bolo-caneca.html</loc>
-    <lastmod>2025-03-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://construtorabuilder.com/blog/receita-bolo-cenoura.html</loc>
-    <lastmod>2025-03-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://construtorabuilder.com/blog/receita-bolo-chocolate.html</loc>
-    <lastmod>2025-03-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://construtorabuilder.com/blog/receita-bolo-fuba.html</loc>
-    <lastmod>2025-03-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://construtorabuilder.com/blog/receita-bolo-laranja.html</loc>
-    <lastmod>2025-03-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://construtorabuilder.com/blog/receita-bolo-limao.html</loc>
-    <lastmod>2025-03-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://construtorabuilder.com/blog/receita-bolo-milho.html</loc>
-    <lastmod>2025-03-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://construtorabuilder.com/blog/receita-brownie-chocolate.html</loc>
-    <lastmod>2025-03-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://construtorabuilder.com/blog/receita-pudim-leite.html</loc>
-    <lastmod>2025-03-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-</urlset>
+
+  <!-- Receitas -->
+  <url><loc>https://construtorabuilder.com/blog/receita-bolo-banana.html</loc><lastmod>2025-03-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-bolo-caneca.html</loc><lastmod>2025-03-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-bolo-cenoura.html</loc><lastmod>2025-03-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-bolo-chocolate.html</loc><lastmod>2025-03-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-bolo-fuba.html</loc><lastmod>2025-03-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-bolo-laranja.html</loc><lastmod>2025-03-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-bolo-limao.html</loc><lastmod>2025-03-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-bolo-milho.html</loc><lastmod>2025-03-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-brownie-chocolate.html</loc><lastmod>2025-03-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-drink-gin.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-federal-cnpj.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-federal-cpf.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-panqueca.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-pizza-pot-pie.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-pudim-leite.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/receita-salada-salmão.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Futebol e Esportes -->
+  <url><loc>https://construtorabuilder.com/blog/bayern-milan-2025.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/classificacao-brasileirao-03-04.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/classificacao-brasileirao-10-04.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/cor-vas.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/flamengo-ldu-2025.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/inter-nacional-2025.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/jogos-brasileirao-03-04.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/real-arsenal-2025.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Diversos -->
+  <url><loc>https://construtorabuilder.com/blog/chat-gpt-imagem.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/glauber-braga.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/nintendo-switch-2.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/previsao-tempo-brasil-03-04.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://construtorabuilder.com/blog/tarifaco-trump.html</loc><lastmod>2025-04-03</lastmod><changefreq>monthly</changefreq><
