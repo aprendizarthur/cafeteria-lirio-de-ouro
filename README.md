@@ -108,7 +108,7 @@
           <td>1</td>
           <td>23</td>
           <td>3</td>
-          <td>36<span style="color: green;">140%</span></td>
+          <td>36<span style="color: #007C00; margin-left: 5px;">140%</span></td>
           <td>8,3%</td>
           <td>31,6</td>
         </tr>
