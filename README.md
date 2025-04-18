@@ -112,13 +112,21 @@
           <td>8,3%</td>
           <td>31,6</td>
         </tr>
-         <tr>
+        <tr>
           <td>2</td>
           <td>33</td>
           <td>2</td>
           <td>373</td>
           <td>0,5%</td>
           <td>18,5</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>43</td>
+          <td>2</td>
+          <td>911</td>
+          <td>0,2%</td>
+          <td>30,4</td>
         </tr>
       </tbody>
   </table>
