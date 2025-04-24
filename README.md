@@ -128,6 +128,14 @@
           <td>0,2%</td>
           <td>30,4</td>
         </tr>
+        <tr>
+          <td>4</td>
+          <td>47</td>
+          <td>2</td>
+          <td>1,37mil</td>
+          <td>0,1%</td>
+          <td>40,3</td>
+        </tr>
       </tbody>
   </table>
 </div>
