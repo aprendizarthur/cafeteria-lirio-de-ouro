@@ -82,6 +82,14 @@
   <img src="imagens/assets/cardapio.jpg" style="border-radius: 20px; max-width: 80%; height: auto;">
 </div>
 
+<div align="center">
+  <img src="imagens/assets/1.jpg" style="border-radius: 20px; max-width: 80%; height: auto;">
+</div>
+
+<div align="center">
+  <img src="imagens/assets/2.jpg" style="border-radius: 20px; max-width: 80%; height: auto;">
+</div>
+
 <div align="left" id="evolucao" style="margin-top: 20px; margin-bottom: 20px;">
   <h2>Evolução Semanal Tráfego Orgânico (Dados GSC):</h2>
   <table style="border: 1px solid #000">
