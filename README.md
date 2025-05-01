@@ -13,7 +13,7 @@
 </div>
 
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
-  <strong>Status</strong>: Atualizado semanalmente <br>
+  <strong>Status</strong>: Finalizado <br>
   <strong>Tempo em desenvolvimento</strong>: 2 dias <br><br>
   <strong>Evolução semanal de tráfego orgânico no final do README</strong>
 </div>
